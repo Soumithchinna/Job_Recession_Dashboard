@@ -1,3 +1,4 @@
+
 # 📉 Recession Jobs Dashboard
 
 An Excel-based interactive dashboard analyzing the impact of economic recessions on employment, salaries, layoffs, and workforce trends across four countries and five industries.
@@ -9,6 +10,7 @@ An Excel-based interactive dashboard analyzing the impact of economic recessions
 This workbook explores how recessions affect labor markets using a structured dataset of **200 records** spanning two major global downturns — the **2008–2009 Financial Crisis** and the **2020–2021 COVID-19 Recession**. It includes pre- and post-recession comparisons of job counts, salaries, layoffs, hiring rates, unemployment rates, and GDP growth.
 
 ---
+![Dashboard_page-0001](https://github.com/user-attachments/assets/6745ce39-c2cd-4125-aef9-80624187a72a)
 
 ## 🗂️ Workbook Structure
 
